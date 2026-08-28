@@ -2,7 +2,7 @@
 
 **会話から開発、制作、日々の作業まで。PCの中にひとつのAI環境を。**
 
-[English](README.md) · [公式サイト](https://sainoweb.com/ja/products/liora) · [購入・お問い合わせ](https://sainoweb.com/ja/contact?product=liora)
+[English](README.md) · [公式サイト](https://sainoweb.com/ja/products/liora) · [購入](https://sainoweb.com/ja/products/liora#liora-purchase) · [サポート](SUPPORT.md)
 
 ![Lioraのチャット画面](screenshots/capture-chat-dark.png)
 
@@ -46,7 +46,7 @@ Windowsソフトのインストール、AIモデルのダウンロード、ロ�
 
 ## 提供について
 
-LioraはWindows 10・11向けの商用プロプライエタリソフトウェアです。現在は一般公開インストーラーではなく、Limited Betaとして個別提供しています。
+LioraはWindows 10・11向けの商用プロプライエタリソフトウェアです。現在は一般公開インストーラーではなく、Limited Betaとして期限付きの非公開ダウンロードで提供しています。
 
 - 日本国内：**29,800円（税込）**
 - 海外：**199 USD**
@@ -54,7 +54,7 @@ LioraはWindows 10・11向けの商用プロプライエタリソフトウェア
 - 提供方法：決済確認後、期限付きの非公開ダウンロードURLと導入ガイドを個別提供
 - ローカルAIモデル、クラウドアカウント、有料API、第三者サービスの料金は製品価格に含まれません
 
-購入前に[SAINO公式製品ページ](https://sainoweb.com/ja/products/liora)をご確認のうえ、お問い合わせください。インストーラーはこのリポジトリでは公開しません。
+購入前に[SAINO公式製品ページ](https://sainoweb.com/ja/products/liora#liora-purchase)の要件、未署名インストーラーの注意、利用条件をご確認ください。決済リンクが表示されない期間はお問い合わせをご利用ください。インストーラーはこのリポジトリでは公開しません。
 
 ## こんな方におすすめです
 
