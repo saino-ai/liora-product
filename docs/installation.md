@@ -10,17 +10,17 @@ Do not download Liora installers from unofficial mirrors, public file-sharing li
 
 ## Verify the download
 
-The current `1.3.0-beta.1` Limited Beta installer is:
+The current `1.3.0-beta.2` Limited Beta installer is:
 
 ```text
-Filename: Liora-Setup-1.3.0-beta.1.exe
-SHA-256: 0C15D1AC2A5C81B6B671860C7F8069F21614641AE41F8758B7AAEA0A49FC0FD1
+Filename: Liora-Setup-1.3.0-beta.2.exe
+SHA-256: 8396143CD07102AAA268144399EE44C8D53A630353CB66720EB8E13F65B82A3C
 ```
 
 In PowerShell, calculate the hash with:
 
 ```powershell
-Get-FileHash -Algorithm SHA256 -LiteralPath ".\Liora-Setup-1.3.0-beta.1.exe"
+Get-FileHash -Algorithm SHA256 -LiteralPath ".\Liora-Setup-1.3.0-beta.2.exe"
 ```
 
 Continue only when the result exactly matches the checksum supplied by SAINO for the downloaded version.

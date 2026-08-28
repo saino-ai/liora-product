@@ -70,10 +70,10 @@ LioraはWindows 10・11向けの商用プロプライエタリソフトウェア
 
 現在のインストーラーには**コード署名がありません**。Windows SmartScreenが「認識されないアプリ」と表示する場合があります。SAINOから案内されたファイル名とSHA-256を確認してから、実行するか判断してください。Microsoft DefenderやSmartScreenを全体的に無効化することは推奨しません。
 
-現在の`1.3.0-beta.1` Limited Betaインストーラーで検証済みのSHA-256は次のとおりです。
+現在の`1.3.0-beta.2` Limited Betaインストーラーで検証済みのSHA-256は次のとおりです。
 
 ```text
-0C15D1AC2A5C81B6B671860C7F8069F21614641AE41F8758B7AAEA0A49FC0FD1
+8396143CD07102AAA268144399EE44C8D53A630353CB66720EB8E13F65B82A3C
 ```
 
 詳しくは[インストールと確認方法](docs/installation.md)をご覧ください。
