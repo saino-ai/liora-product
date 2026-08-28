@@ -72,10 +72,10 @@ Read [system requirements](docs/system-requirements.md) before purchasing.
 
 The current installer is **not code signed**. Windows SmartScreen may display an unrecognized-app warning. Verify the filename and SHA-256 checksum supplied by SAINO before deciding whether to continue. Do not disable Microsoft Defender or SmartScreen globally.
 
-The verified SHA-256 for the current `1.3.0-beta.1` Limited Beta installer is:
+The verified SHA-256 for the current `1.3.0-beta.2` Limited Beta installer is:
 
 ```text
-0C15D1AC2A5C81B6B671860C7F8069F21614641AE41F8758B7AAEA0A49FC0FD1
+8396143CD07102AAA268144399EE44C8D53A630353CB66720EB8E13F65B82A3C
 ```
 
 See [installation and verification](docs/installation.md).
