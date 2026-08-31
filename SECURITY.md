@@ -16,4 +16,4 @@ SAINO will review the report and reply through the contact information you provi
 
 ## Supported release
 
-Liora is currently distributed as a limited beta. Security updates and supported versions are announced through the official delivery channel and the [SAINO website](https://sainoweb.com/en/products/liora).
+Liora 1.3.0 is the current supported release. Security updates and supported versions are announced through the official delivery channel and the [SAINO website](https://sainoweb.com/en/products/liora).

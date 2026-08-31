@@ -2,6 +2,15 @@
 
 This public changelog lists customer-facing Liora releases. Internal development history remains private.
 
+## 1.3.0
+
+- Released Liora as a commercial Windows AI hub for conversation, development, voice, memory, web search, MCP, automation, and supported creative workflows.
+- Added local provider support for Ollama, LM Studio, and llama.cpp alongside Codex and Claude Code CLI integrations.
+- Added Work Mode, long-term memory, document retrieval, voice conversation, backup and restore, diagnostics, Safe Mode, skills, plugins, and session recovery.
+- Verified the installer, release manifest, checksums, packaged application, bilingual interface, and clean Windows installation workflow.
+
+The Windows installer remains unsigned. Verify the filename and published SHA-256 before installation.
+
 ## 1.3.0-beta.2
 
 - Added Japanese and English quick-start guides to the installer package.

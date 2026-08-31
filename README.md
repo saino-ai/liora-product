@@ -46,7 +46,7 @@ See [the full feature overview](docs/features.md).
 
 ## Availability
 
-Liora is commercial proprietary software for Windows 10 and 11. It is currently offered as a limited beta through time-limited private downloads rather than a public installer download.
+Liora is commercial proprietary software for Windows 10 and 11. The official release is delivered through individual, time-limited private downloads rather than a public installer link.
 
 - Japan: **JPY 29,800 including tax**
 - International: **USD 199**
@@ -72,10 +72,10 @@ Read [system requirements](docs/system-requirements.md) before purchasing.
 
 The current installer is **not code signed**. Windows SmartScreen may display an unrecognized-app warning. Verify the filename and SHA-256 checksum supplied by SAINO before deciding whether to continue. Do not disable Microsoft Defender or SmartScreen globally.
 
-The verified SHA-256 for the current `1.3.0-beta.2` Limited Beta installer is:
+The verified SHA-256 for the current `1.3.0` installer is:
 
 ```text
-8396143CD07102AAA268144399EE44C8D53A630353CB66720EB8E13F65B82A3C
+380012943029FEC2B17B0863D8C1AC7BFE56408427AB48C2C505957FABE1BC43
 ```
 
 See [installation and verification](docs/installation.md).
