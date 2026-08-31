@@ -1,5 +1,7 @@
 # Liora
 
+<img src="assets/liora-icon.png" alt="Lioraアイコン" width="128" height="128">
+
 **会話から開発、制作、日々の作業まで。PCの中にひとつのAI環境を。**
 
 [English](README.md) · [公式サイト](https://sainoweb.com/ja/products/liora) · [購入](https://sainoweb.com/ja/products/liora#liora-purchase) · [サポート](SUPPORT.md)

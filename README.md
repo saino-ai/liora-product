@@ -1,5 +1,7 @@
 # Liora
 
+<img src="assets/liora-icon.png" alt="Liora icon" width="128" height="128">
+
 **One Windows AI hub for conversation, development, creation, and everyday work.**
 
 [日本語](README-ja.md) · [Official website](https://sainoweb.com/en/products/liora) · [Purchase](https://sainoweb.com/en/products/liora#liora-purchase) · [Support](SUPPORT.md)
